@@ -1,0 +1,25 @@
+{
+  "name": "swagger-generate-ts",
+  "author": "Alexander Medkov <azeeson@gmail.com> (https://twitter.com/azeeson)",
+  "version": "0.1.0",
+  "license": "MIT",
+  "description": "Automatically generate TS Interface and API from swagger.json v2.0.",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/azeeson/swagger-generate-ts.git"
+  },
+  "bugs": {
+    "url": "https://github.com/azeeson/swagger-generate-ts/issues"
+  },
+  "keywords": [],
+  "dependencies": {
+    "mocha": "^7.0.1",
+    "typescript": "^3.7.5"
+  }
+}
