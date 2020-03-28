@@ -1,7 +1,7 @@
 {
   "name": "swagger-generate-ts",
   "author": "Alexander Medkov <azeeson@gmail.com> (https://twitter.com/azeeson)",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "license": "MIT",
   "description": "Automatically generate TS Interface and API from swagger.json v2.0.",
   "main": "lib/index.js",
