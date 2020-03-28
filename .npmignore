@@ -1,5 +1,6 @@
 /src
 /tests
+/_tests
 
 .DS_Store
 npm-debug.log
