@@ -19,7 +19,7 @@
   },
   "keywords": [],
   "dependencies": {
-    "mocha": "^7.0.1",
+    "mocha": "^10.2.0",
     "typescript": "^3.7.5"
   },
   "devDependencies": {
